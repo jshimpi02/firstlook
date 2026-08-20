@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="520" viewBox="0 0 960 520">
+  <defs>
+    <linearGradient id="nightSky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1b2e"/>
+      <stop offset="38%" stop-color="#16324f"/>
+      <stop offset="62%" stop-color="#2b5876"/>
+      <stop offset="100%" stop-color="#4e7a8c"/>
+    </linearGradient>
+    <linearGradient id="dawnSky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3a2a4d"/>
+      <stop offset="35%" stop-color="#7a4a5c"/>
+      <stop offset="60%" stop-color="#c9704f"/>
+      <stop offset="85%" stop-color="#e8a15c"/>
+      <stop offset="100%" stop-color="#f2c27e"/>
+    </linearGradient>
+    <linearGradient id="ridgeFade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a1420" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0a1420" stop-opacity="0.9"/>
+    </linearGradient>
+    <clipPath id="clipLeft"><rect x="40" y="40" width="300" height="440" rx="36"/></clipPath>
+    <clipPath id="clipRight"><rect x="620" y="40" width="300" height="440" rx="36"/></clipPath>
+    <style>
+      .phone-frame { fill: none; stroke: #17152e; stroke-width: 10; }
+      .notch { fill: #0a0918; }
+      .clock { font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif; font-weight: 700; font-size: 46px; fill: #ffffff; }
+      .date { font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif; font-weight: 600; font-size: 12px; fill: rgba(255,255,255,0.78); }
+      .widget-card { fill: rgba(255,255,255,0.16); }
+      .widget-tag { font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif; font-weight: 700; font-size: 9px; letter-spacing: 0.6px; }
+      .widget-quote { font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif; font-weight: 700; font-size: 14px; fill: #ffffff; }
+      .caption { font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif; font-weight: 600; font-size: 13px; fill: #4b4870; }
+      .caption-sub { font-family: 'SF Mono', 'JetBrains Mono', monospace; font-size: 10.5px; fill: #8b87b2; }
+    </style>
+  </defs>
+
+  <rect width="960" height="520" fill="#f3ecdd"/>
+
+  <!-- Left phone: general/discipline quote, amber system tint -->
+  <g>
+    <rect x="34" y="34" width="312" height="452" rx="42" fill="#221f45"/>
+    <g clip-path="url(#clipLeft)">
+      <rect x="40" y="40" width="300" height="440" fill="url(#nightSky)"/>
+      <circle cx="80" cy="90" r="1.4" fill="#fff" opacity="0.6"/>
+      <circle cx="250" cy="120" r="1.4" fill="#fff" opacity="0.5"/>
+      <circle cx="190" cy="70" r="1.2" fill="#fff" opacity="0.55"/>
+      <circle cx="300" cy="150" r="1.2" fill="#fff" opacity="0.4"/>
+      <polygon points="40,340 85,300 130,325 175,270 220,310 265,285 340,320 340,480 40,480"
+               fill="url(#ridgeFade)"/>
+    </g>
+    <rect x="40" y="40" width="300" height="440" rx="36" class="phone-frame"/>
+    <rect x="145" y="52" width="90" height="24" rx="12" class="notch"/>
+
+    <text x="190" y="150" text-anchor="middle" class="clock">7:42</text>
+    <text x="190" y="172" text-anchor="middle" class="date">Thursday, August 20</text>
+
+    <!-- accessoryRectangular widget, amber-tinted, translucent monochrome -->
+    <rect x="56" y="192" width="268" height="70" rx="16" class="widget-card"/>
+    <text x="72" y="218" class="widget-tag" fill="#f5c57b">DISCIPLINE</text>
+    <text x="72" y="240" class="widget-quote">Discipline equals freedom.</text>
+
+    <circle cx="86" cy="450" r="20" fill="rgba(255,255,255,0.16)"/>
+    <circle cx="294" cy="450" r="20" fill="rgba(255,255,255,0.16)"/>
+  </g>
+
+  <text x="190" y="510" text-anchor="middle" class="caption">General mode · amber accent</text>
+
+  <!-- Right phone: Gita quote, cool blue system tint -->
+  <g>
+    <rect x="614" y="34" width="312" height="452" rx="42" fill="#221f45"/>
+    <g clip-path="url(#clipRight)">
+      <rect x="620" y="40" width="300" height="440" fill="url(#dawnSky)"/>
+    </g>
+    <rect x="620" y="40" width="300" height="440" rx="36" class="phone-frame"/>
+    <rect x="725" y="52" width="90" height="24" rx="12" class="notch"/>
+
+    <text x="770" y="150" text-anchor="middle" class="clock" fill="#241206" style="text-shadow:none">6:15</text>
+    <text x="770" y="172" text-anchor="middle" class="date" fill="rgba(36,18,6,0.72)">Thursday, August 20</text>
+
+    <!-- accessoryRectangular widget, blue-tinted, translucent monochrome -->
+    <rect x="636" y="192" width="268" height="70" rx="16" fill="rgba(36,18,6,0.14)"/>
+    <text x="652" y="218" class="widget-tag" fill="#5b6cff">GITA · 2.47</text>
+    <text x="652" y="240" class="widget-quote" fill="#241206">Act without attachment to results.</text>
+
+    <circle cx="666" cy="450" r="20" fill="rgba(36,18,6,0.14)"/>
+    <circle cx="874" cy="450" r="20" fill="rgba(36,18,6,0.14)"/>
+  </g>
+
+  <text x="770" y="510" text-anchor="middle" class="caption">Gita mode · cool accent</text>
+
+  <text x="480" y="26" text-anchor="middle" class="caption-sub">accessoryRectangular · both quotes fit on one line, no clipping</text>
+</svg>

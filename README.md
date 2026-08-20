@@ -5,6 +5,12 @@ screen widget that shows one short motivational (or Bhagavad Gita) quote at a
 time. The widget sits alongside your other lock screen widgets, on top of
 your own wallpaper.
 
+![Lock screen widget preview: General mode showing "Discipline equals freedom." and Gita mode showing "Act without attachment to results."](docs/widget-preview.png)
+
+*Mockup of the `.accessoryRectangular` widget in both modes — the real widget
+is rendered by the system in flat, translucent monochrome tinted to your
+accent color, not the exact colors shown here.*
+
 ## What's here
 
 - `LockScreenQuotes/` — the main app target. A single settings screen
