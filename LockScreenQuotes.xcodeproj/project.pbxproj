@@ -1,0 +1,681 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		32DEB70E01114C8889B1C24E /* LockScreenQuotesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F48487AE2FCE43948049F5A5 /* LockScreenQuotesApp.swift */; };
+		89F055BB966F49D885722C94 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43143B229D974101A1B9D693 /* SettingsView.swift */; };
+		9A05A010B33347ACA726D42F /* Quote.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D06334FF74749B39BE81BCE /* Quote.swift */; };
+		F82A556A35C147CAB4A31951 /* QuoteStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = E70D9C394D684BF79D93EB45 /* QuoteStore.swift */; };
+		14BCF589474D416B87B45586 /* AppGroupDefaults.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B200A5599E049E2AE0BA88E /* AppGroupDefaults.swift */; };
+		63B393896A074E6B84D9C543 /* Quotes.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EFC38CD3C564AC994AEEF74 /* Quotes.json */; };
+		1B5BBBE55C2940F1B2D1B907 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 22C1B49C05954AECBB842D0E /* Assets.xcassets */; };
+		31CFBFB8DEFF4AA59FA87034 /* QuoteWidgetExtension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 5BBA08E21C204B5FB5230398 /* QuoteWidgetExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		C887E0941725413BADD2D4B9 /* QuoteWidget.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBAF66C3D9B149D8802EC488 /* QuoteWidget.swift */; };
+		635A20050C454CDD87916E86 /* QuoteTimelineProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B62A623308143DF848462A5 /* QuoteTimelineProvider.swift */; };
+		F73EC2E94E744359A26E27E5 /* QuoteWidgetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19A74476AD564455A8083D77 /* QuoteWidgetView.swift */; };
+		75F9E8D8D1F2440DB62E26C9 /* Quote.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D06334FF74749B39BE81BCE /* Quote.swift */; };
+		6793BC4CD7DC44F781C3B5E4 /* QuoteStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = E70D9C394D684BF79D93EB45 /* QuoteStore.swift */; };
+		B32E3BD0A54D4D63A5A94489 /* AppGroupDefaults.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B200A5599E049E2AE0BA88E /* AppGroupDefaults.swift */; };
+		A88924144C2D4DEAB0B0A540 /* Quotes.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EFC38CD3C564AC994AEEF74 /* Quotes.json */; };
+		BA6B8D611D49407DA58AA844 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7DC4D62AEF554051BF3E7705 /* Assets.xcassets */; };
+		E9164556D08141C781ACF32B /* QuoteValidationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FF06CF8F56D440FB5451C9A /* QuoteValidationTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		BA9C0A8EA83B4DDFB871DE25 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3722DF8D97FF4D9EBC761C0C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 468ABFC010FB4B5894F47BCB;
+			remoteInfo = QuoteWidgetExtension;
+		};
+		2EF9574E445C4409A8CCC1CA /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3722DF8D97FF4D9EBC761C0C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1DCFB7D2802D4CCEB54258E6;
+			remoteInfo = LockScreenQuotes;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		F48487AE2FCE43948049F5A5 /* LockScreenQuotesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LockScreenQuotesApp.swift; sourceTree = "<group>"; };
+		43143B229D974101A1B9D693 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		7D06334FF74749B39BE81BCE /* Quote.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quote.swift; sourceTree = "<group>"; };
+		E70D9C394D684BF79D93EB45 /* QuoteStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuoteStore.swift; sourceTree = "<group>"; };
+		7B200A5599E049E2AE0BA88E /* AppGroupDefaults.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppGroupDefaults.swift; sourceTree = "<group>"; };
+		6EFC38CD3C564AC994AEEF74 /* Quotes.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Quotes.json; sourceTree = "<group>"; };
+		22C1B49C05954AECBB842D0E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		82538D75FED64FD994C1208E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C11943E7863048EC8E867A80 /* LockScreenQuotes.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = LockScreenQuotes.entitlements; sourceTree = "<group>"; };
+		26AF7FBCF71B4EA788A1FD6F /* LockScreenQuotes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LockScreenQuotes.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DBAF66C3D9B149D8802EC488 /* QuoteWidget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuoteWidget.swift; sourceTree = "<group>"; };
+		1B62A623308143DF848462A5 /* QuoteTimelineProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuoteTimelineProvider.swift; sourceTree = "<group>"; };
+		19A74476AD564455A8083D77 /* QuoteWidgetView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuoteWidgetView.swift; sourceTree = "<group>"; };
+		7DC4D62AEF554051BF3E7705 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		AE96DB5B248946CDB8E8AF30 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		548424F3EE16494697F56604 /* QuoteWidget.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = QuoteWidget.entitlements; sourceTree = "<group>"; };
+		5BBA08E21C204B5FB5230398 /* QuoteWidgetExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = QuoteWidgetExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		4FF06CF8F56D440FB5451C9A /* QuoteValidationTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuoteValidationTests.swift; sourceTree = "<group>"; };
+		E77DB3A253BC45A69320A7B9 /* LockScreenQuotesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LockScreenQuotesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		3854969AEF7846CC9103A137 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		0CC3286D4AF442D08C99C2FC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3E96AFCBF2EA4DD4B0E36976 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E47C826597024EF5A53A644F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A531E266F5FF474C9448B433 = {
+			isa = PBXGroup;
+			children = (
+				3854969AEF7846CC9103A137 /* README.md */,
+				D9B0166939E74CADBB34E7AB /* LockScreenQuotes */,
+				1DCD8D10FDBB4D68B9DB386B /* QuoteWidget */,
+				9A28600981C24C1B9D805E24 /* LockScreenQuotesTests */,
+				FCB0A26AD1714DC2BCCC0DA4 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FCB0A26AD1714DC2BCCC0DA4 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				26AF7FBCF71B4EA788A1FD6F /* LockScreenQuotes.app */,
+				5BBA08E21C204B5FB5230398 /* QuoteWidgetExtension.appex */,
+				E77DB3A253BC45A69320A7B9 /* LockScreenQuotesTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		D9B0166939E74CADBB34E7AB /* LockScreenQuotes */ = {
+			isa = PBXGroup;
+			children = (
+				F48487AE2FCE43948049F5A5 /* LockScreenQuotesApp.swift */,
+				F8A1E3384DB344ACB367515B /* Views */,
+				B89409DEEBF64029A8BA546C /* Models */,
+				9D56AB80A9CE4A7AAB90EBF7 /* Shared */,
+				55C4B245DF134CB599B12061 /* Resources */,
+				48552254AAD240D3AE8A01AD /* Assets.xcassets */,
+				82538D75FED64FD994C1208E /* Info.plist */,
+				C11943E7863048EC8E867A80 /* LockScreenQuotes.entitlements */,
+			);
+			path = LockScreenQuotes;
+			sourceTree = "<group>";
+		};
+		F8A1E3384DB344ACB367515B /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				43143B229D974101A1B9D693 /* SettingsView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		B89409DEEBF64029A8BA546C /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				7D06334FF74749B39BE81BCE /* Quote.swift */,
+				E70D9C394D684BF79D93EB45 /* QuoteStore.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		9D56AB80A9CE4A7AAB90EBF7 /* Shared */ = {
+			isa = PBXGroup;
+			children = (
+				7B200A5599E049E2AE0BA88E /* AppGroupDefaults.swift */,
+			);
+			path = Shared;
+			sourceTree = "<group>";
+		};
+		55C4B245DF134CB599B12061 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				6EFC38CD3C564AC994AEEF74 /* Quotes.json */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		48552254AAD240D3AE8A01AD /* Assets.xcassets */ = {
+			isa = PBXGroup;
+			children = (
+				22C1B49C05954AECBB842D0E /* Assets.xcassets */,
+			);
+			name = "Assets Container";
+			sourceTree = "<group>";
+		};
+		1DCD8D10FDBB4D68B9DB386B /* QuoteWidget */ = {
+			isa = PBXGroup;
+			children = (
+				DBAF66C3D9B149D8802EC488 /* QuoteWidget.swift */,
+				1B62A623308143DF848462A5 /* QuoteTimelineProvider.swift */,
+				19A74476AD564455A8083D77 /* QuoteWidgetView.swift */,
+				13EC9DC6B1B1410991851A37 /* Assets.xcassets */,
+				AE96DB5B248946CDB8E8AF30 /* Info.plist */,
+				548424F3EE16494697F56604 /* QuoteWidget.entitlements */,
+			);
+			path = QuoteWidget;
+			sourceTree = "<group>";
+		};
+		13EC9DC6B1B1410991851A37 /* Assets.xcassets */ = {
+			isa = PBXGroup;
+			children = (
+				7DC4D62AEF554051BF3E7705 /* Assets.xcassets */,
+			);
+			name = "Assets Container";
+			sourceTree = "<group>";
+		};
+		9A28600981C24C1B9D805E24 /* LockScreenQuotesTests */ = {
+			isa = PBXGroup;
+			children = (
+				4FF06CF8F56D440FB5451C9A /* QuoteValidationTests.swift */,
+			);
+			path = LockScreenQuotesTests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1DCFB7D2802D4CCEB54258E6 /* LockScreenQuotes */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5D01775C5FA147DE9F78867C /* Build configuration list for PBXNativeTarget "LockScreenQuotes" */;
+			buildPhases = (
+				303D0AE14C6245DB9CED5D9E /* Sources */,
+				0CC3286D4AF442D08C99C2FC /* Frameworks */,
+				0199620DC82E470A93711DDC /* Resources */,
+				3A9406DCB0E140BE8A4F07A7 /* Embed Foundation Extensions */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				C4CAB08EC0E74657B241F0D8 /* PBXTargetDependency */,
+			);
+			name = LockScreenQuotes;
+			productName = LockScreenQuotes;
+			productReference = 26AF7FBCF71B4EA788A1FD6F /* LockScreenQuotes.app */;
+			productType = "com.apple.product-type.application";
+		};
+		468ABFC010FB4B5894F47BCB /* QuoteWidgetExtension */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F020B0ACB1F140F28CC7A6F7 /* Build configuration list for PBXNativeTarget "QuoteWidgetExtension" */;
+			buildPhases = (
+				27FB2AFABC8A4AF1B09BAFCB /* Sources */,
+				3E96AFCBF2EA4DD4B0E36976 /* Frameworks */,
+				62B967A2B8784C43A89D72D4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = QuoteWidgetExtension;
+			productName = QuoteWidgetExtension;
+			productReference = 5BBA08E21C204B5FB5230398 /* QuoteWidgetExtension.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
+		77C7E6A2F2BF4E14A996A4BB /* LockScreenQuotesTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8D9B2402BCAE4F69B61BC020 /* Build configuration list for PBXNativeTarget "LockScreenQuotesTests" */;
+			buildPhases = (
+				628334C9A9434AF2B0E8D6C0 /* Sources */,
+				E47C826597024EF5A53A644F /* Frameworks */,
+				4593DCA9FA5B44ABB6344322 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A822A9E6BF5548F2BAE84743 /* PBXTargetDependency */,
+			);
+			name = LockScreenQuotesTests;
+			productName = LockScreenQuotesTests;
+			productReference = E77DB3A253BC45A69320A7B9 /* LockScreenQuotesTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3722DF8D97FF4D9EBC761C0C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1520;
+				LastUpgradeCheck = 1520;
+				TargetAttributes = {
+					1DCFB7D2802D4CCEB54258E6 = {
+						CreatedOnToolsVersion = 15.2;
+					};
+					468ABFC010FB4B5894F47BCB = {
+						CreatedOnToolsVersion = 15.2;
+					};
+					77C7E6A2F2BF4E14A996A4BB = {
+						CreatedOnToolsVersion = 15.2;
+						TestTargetID = 1DCFB7D2802D4CCEB54258E6;
+					};
+				};
+			};
+			buildConfigurationList = F9689BED197841F79D8A2A26 /* Build configuration list for PBXProject "LockScreenQuotes" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A531E266F5FF474C9448B433;
+			productRefGroup = FCB0A26AD1714DC2BCCC0DA4 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1DCFB7D2802D4CCEB54258E6 /* LockScreenQuotes */,
+				468ABFC010FB4B5894F47BCB /* QuoteWidgetExtension */,
+				77C7E6A2F2BF4E14A996A4BB /* LockScreenQuotesTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		0199620DC82E470A93711DDC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				63B393896A074E6B84D9C543 /* Quotes.json in Resources */,
+				1B5BBBE55C2940F1B2D1B907 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		62B967A2B8784C43A89D72D4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A88924144C2D4DEAB0B0A540 /* Quotes.json in Resources */,
+				BA6B8D611D49407DA58AA844 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4593DCA9FA5B44ABB6344322 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		3A9406DCB0E140BE8A4F07A7 /* Embed Foundation Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				31CFBFB8DEFF4AA59FA87034 /* QuoteWidgetExtension.appex in Embed Foundation Extensions */,
+			);
+			name = "Embed Foundation Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		303D0AE14C6245DB9CED5D9E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				89F055BB966F49D885722C94 /* SettingsView.swift in Sources */,
+				32DEB70E01114C8889B1C24E /* LockScreenQuotesApp.swift in Sources */,
+				9A05A010B33347ACA726D42F /* Quote.swift in Sources */,
+				F82A556A35C147CAB4A31951 /* QuoteStore.swift in Sources */,
+				14BCF589474D416B87B45586 /* AppGroupDefaults.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		27FB2AFABC8A4AF1B09BAFCB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C887E0941725413BADD2D4B9 /* QuoteWidget.swift in Sources */,
+				635A20050C454CDD87916E86 /* QuoteTimelineProvider.swift in Sources */,
+				F73EC2E94E744359A26E27E5 /* QuoteWidgetView.swift in Sources */,
+				75F9E8D8D1F2440DB62E26C9 /* Quote.swift in Sources */,
+				6793BC4CD7DC44F781C3B5E4 /* QuoteStore.swift in Sources */,
+				B32E3BD0A54D4D63A5A94489 /* AppGroupDefaults.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		628334C9A9434AF2B0E8D6C0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E9164556D08141C781ACF32B /* QuoteValidationTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		C4CAB08EC0E74657B241F0D8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 468ABFC010FB4B5894F47BCB /* QuoteWidgetExtension */;
+			targetProxy = BA9C0A8EA83B4DDFB871DE25 /* PBXContainerItemProxy */;
+		};
+		A822A9E6BF5548F2BAE84743 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 1DCFB7D2802D4CCEB54258E6 /* LockScreenQuotes */;
+			targetProxy = 2EF9574E445C4409A8CCC1CA /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		07FA676ABBD14C65B4C7AB36 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		A1F9370501764541AC7F4669 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_VERSION = 5.0;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3223A7EE64544628A3E25275 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = LockScreenQuotes/LockScreenQuotes.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = LockScreenQuotes/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.firstlook.LockScreenQuotes;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		C4FE89C329054B30B59F0579 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = LockScreenQuotes/LockScreenQuotes.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = LockScreenQuotes/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.firstlook.LockScreenQuotes;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		314177AA64FA4451AC624586 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CODE_SIGN_ENTITLEMENTS = QuoteWidget/QuoteWidget.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = QuoteWidget/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.firstlook.LockScreenQuotes.QuoteWidget;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		591BBA0751E4474989E422FB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CODE_SIGN_ENTITLEMENTS = QuoteWidget/QuoteWidget.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = QuoteWidget/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.firstlook.LockScreenQuotes.QuoteWidget;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		4F97E7B4E88D422FAD890A23 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.firstlook.LockScreenQuotesTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LockScreenQuotes.app/LockScreenQuotes";
+			};
+			name = Debug;
+		};
+		B87D487F933B4959B995D664 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.firstlook.LockScreenQuotesTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LockScreenQuotes.app/LockScreenQuotes";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F9689BED197841F79D8A2A26 /* Build configuration list for PBXProject "LockScreenQuotes" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				07FA676ABBD14C65B4C7AB36 /* Debug */,
+				A1F9370501764541AC7F4669 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5D01775C5FA147DE9F78867C /* Build configuration list for PBXNativeTarget "LockScreenQuotes" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3223A7EE64544628A3E25275 /* Debug */,
+				C4FE89C329054B30B59F0579 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F020B0ACB1F140F28CC7A6F7 /* Build configuration list for PBXNativeTarget "QuoteWidgetExtension" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				314177AA64FA4451AC624586 /* Debug */,
+				591BBA0751E4474989E422FB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8D9B2402BCAE4F69B61BC020 /* Build configuration list for PBXNativeTarget "LockScreenQuotesTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4F97E7B4E88D422FAD890A23 /* Debug */,
+				B87D487F933B4959B995D664 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+	};
+	rootObject = 3722DF8D97FF4D9EBC761C0C /* Project object */;
+}

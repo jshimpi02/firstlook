@@ -1,0 +1,1704 @@
+{
+  "general": [
+    {
+      "id": "g001",
+      "text": "Discipline equals freedom.",
+      "category": "discipline",
+      "source": "Jocko Willink"
+    },
+    {
+      "id": "g002",
+      "text": "Do it even when you don't want to.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g003",
+      "text": "Motivation fades. Discipline remains.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g004",
+      "text": "Show up on the days you don't feel it.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g005",
+      "text": "Consistency beats intensity.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g006",
+      "text": "The floor is the standard, not the ceiling.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g007",
+      "text": "Willpower is a muscle. Train it daily.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g008",
+      "text": "Comfort is the enemy of growth.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g009",
+      "text": "Do the hard thing first.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g010",
+      "text": "Habits build the life you didn't plan.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g011",
+      "text": "What you repeat, you become.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g012",
+      "text": "No excuses. Just reps.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g013",
+      "text": "Start before you're ready.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g014",
+      "text": "Finish what you start.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g015",
+      "text": "Small disciplines, big results.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g016",
+      "text": "Routine is freedom in disguise.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g017",
+      "text": "Skip the mood, keep the schedule.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g018",
+      "text": "Effort compounds. Keep adding.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g019",
+      "text": "Today's discipline is tomorrow's ease.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g020",
+      "text": "Do the boring work. It works.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g021",
+      "text": "Own the standard, not the excuse.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g022",
+      "text": "The work doesn't care how you feel.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g023",
+      "text": "Order your day before it orders you.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g024",
+      "text": "Master the basics, then repeat them.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g025",
+      "text": "Discipline is choosing now over later.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g026",
+      "text": "Earn today before you rest tonight.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g027",
+      "text": "You fall to habits, not rise to goals.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g028",
+      "text": "Structure sets you free.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g029",
+      "text": "Keep the promise you made yourself.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g030",
+      "text": "Do it badly, but do it daily.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g031",
+      "text": "The grind is the reward.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g032",
+      "text": "No shortcuts, just steps.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g033",
+      "text": "Build the habit, trust the process.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g034",
+      "text": "Say less, do more.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g035",
+      "text": "Discipline outlasts inspiration.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g036",
+      "text": "Control what you can. Show up.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g037",
+      "text": "Hard now, easy later.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g038",
+      "text": "Practice until it's instinct.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g039",
+      "text": "Every rep counts, even small ones.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g040",
+      "text": "Stay the course when it's boring.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g041",
+      "text": "Win the morning, win the day.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g042",
+      "text": "Precision over passion.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g043",
+      "text": "Keep your word to yourself.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g044",
+      "text": "Systems beat willpower.",
+      "category": "discipline",
+      "source": null
+    },
+    {
+      "id": "g045",
+      "text": "Small steps beat none.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g046",
+      "text": "One task at a time.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g047",
+      "text": "Where attention goes, energy flows.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g048",
+      "text": "Cut the noise, keep the signal.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g049",
+      "text": "Do less, but better.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g050",
+      "text": "Clarity comes from action.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g051",
+      "text": "Say no to stay focused.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g052",
+      "text": "Chase one goal, not ten.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g053",
+      "text": "Deep work beats busy work.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g054",
+      "text": "Distraction is the thief of progress.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g055",
+      "text": "Simplify the target.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g056",
+      "text": "Aim before you move.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g057",
+      "text": "Finish one thing before the next.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g058",
+      "text": "Attention is your rarest resource.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g059",
+      "text": "Narrow the focus, widen the results.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g060",
+      "text": "Guard your first hour.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g061",
+      "text": "Single-task your way to mastery.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g062",
+      "text": "What you focus on grows.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g063",
+      "text": "Fewer tabs, more depth.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g064",
+      "text": "Protect your deep work hours.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g065",
+      "text": "Silence the noise, hear the signal.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g066",
+      "text": "Do the next right thing.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g067",
+      "text": "Focus is a decision, not a feeling.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g068",
+      "text": "One priority at a time.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g069",
+      "text": "Slow down to see clearly.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g070",
+      "text": "The mind follows the eyes.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g071",
+      "text": "Choose depth over width.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g072",
+      "text": "Stay on the one thing.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g073",
+      "text": "Ignore the shiny and irrelevant.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g074",
+      "text": "Direction matters more than speed.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g075",
+      "text": "Clear eyes, clear mind.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g076",
+      "text": "Trim the task list to one.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g077",
+      "text": "Presence is a practice.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g078",
+      "text": "Look at what matters, not everything.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g079",
+      "text": "Undivided attention wins.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g080",
+      "text": "Zoom in on the essential.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g081",
+      "text": "Quiet the noise, trust the plan.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g082",
+      "text": "Keep your eyes on the target.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g083",
+      "text": "Do fewer things, better.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g084",
+      "text": "Focus turns effort into results.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g085",
+      "text": "Stay narrow, go deep.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g086",
+      "text": "Let go of the rest.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g087",
+      "text": "One breath, one task.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g088",
+      "text": "See clearly, act simply.",
+      "category": "focus",
+      "source": null
+    },
+    {
+      "id": "g089",
+      "text": "Fall seven times, stand up eight.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g090",
+      "text": "Bent, not broken.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g091",
+      "text": "Storms pass. You remain.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g092",
+      "text": "Scars are proof you kept going.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g093",
+      "text": "Bend like a reed in the wind.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g094",
+      "text": "Setbacks are setups for comebacks.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g095",
+      "text": "Tough times don't last. Tough people do.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g096",
+      "text": "You've survived every hard day so far.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g097",
+      "text": "Get back up. That's the whole job.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g098",
+      "text": "Pain is temporary. Quitting is forever.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g099",
+      "text": "Endure, then rise.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g100",
+      "text": "Every wound becomes a lesson.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g101",
+      "text": "You're harder to break than you think.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g102",
+      "text": "Keep walking through the storm.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g103",
+      "text": "What doesn't break you, shapes you.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g104",
+      "text": "Grit outlasts talent.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g105",
+      "text": "Hold the line when it's hardest.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g106",
+      "text": "Resilience is built, not born.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g107",
+      "text": "Stand again. Repeat as needed.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g108",
+      "text": "You bend so you don't shatter.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g109",
+      "text": "Rough seas make strong sailors.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g110",
+      "text": "Come back stronger, not bitter.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g111",
+      "text": "Trials build the muscle you need.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g112",
+      "text": "Keep moving, even slowly.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g113",
+      "text": "You are still here. That's strength.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g114",
+      "text": "Cracks let the strength show.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g115",
+      "text": "Adapt, endure, continue.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g116",
+      "text": "The comeback is always possible.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g117",
+      "text": "Steel is forged in fire.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g118",
+      "text": "Weather it. You've done it before.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g119",
+      "text": "Down is not out.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g120",
+      "text": "Every fall teaches a new grip.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g121",
+      "text": "Strength grows in the struggle.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g122",
+      "text": "Keep your feet when others fall.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g123",
+      "text": "Hard days build strong people.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g124",
+      "text": "You outlast what tries to break you.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g125",
+      "text": "Roots grow deeper in the storm.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g126",
+      "text": "Bruised, not beaten.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g127",
+      "text": "Push through, not around.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g128",
+      "text": "Recovery is a skill. Practice it.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g129",
+      "text": "Stay standing. That's the win today.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g130",
+      "text": "Resilience is showing up anyway.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g131",
+      "text": "Break the pattern, not yourself.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g132",
+      "text": "You've survived every hard day yet.",
+      "category": "resilience",
+      "source": null
+    },
+    {
+      "id": "g133",
+      "text": "Control what's yours. Release the rest.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g134",
+      "text": "You suffer more in imagination than fact.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g135",
+      "text": "The obstacle is the way.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g136",
+      "text": "Judge less, observe more.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g137",
+      "text": "Amor fati. Love your fate.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g138",
+      "text": "What stands in the way becomes the way.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g139",
+      "text": "Waste no time arguing what is good.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g140",
+      "text": "He who fears death fears life.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g141",
+      "text": "You have power over your mind, not events.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g142",
+      "text": "You're disturbed by opinion, not things.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g143",
+      "text": "First decide who you want to be.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g144",
+      "text": "Confine yourself to the present.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g145",
+      "text": "Freedom is the only worthy goal.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g146",
+      "text": "Choose not to be harmed, and you won't be.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g147",
+      "text": "Wealth is not wanting more than you need.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g148",
+      "text": "It's not what happens, but how you react.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g149",
+      "text": "Begin at once to live.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g150",
+      "text": "Say only what's worth more than silence.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g151",
+      "text": "Accept what you cannot change.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g152",
+      "text": "Own your reactions, not the outcome.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g153",
+      "text": "Waste nothing, especially time.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g154",
+      "text": "The mind adapts to what it's fed.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g155",
+      "text": "Difficulty shows what you're made of.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g156",
+      "text": "Endure, and skip the complaint.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g157",
+      "text": "Focus on your circle of control.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g158",
+      "text": "External things are not up to you.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g159",
+      "text": "Virtue is the only true good.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g160",
+      "text": "Today is what you have. Use it well.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g161",
+      "text": "Complaint changes nothing. Action might.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g162",
+      "text": "Do your duty, come what may.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g163",
+      "text": "React less, reflect more.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g164",
+      "text": "You have the strength to endure this.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g165",
+      "text": "Your character is what you control.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g166",
+      "text": "Stay indifferent to indifferent things.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g167",
+      "text": "Even a good ship needs a steady captain.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g168",
+      "text": "Meet trouble with a calm mind.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g169",
+      "text": "Say little, do much.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g170",
+      "text": "Guard your inner citadel.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g171",
+      "text": "Fortune favors the prepared mind.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g172",
+      "text": "Rise above what you can't control.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g173",
+      "text": "Live according to nature.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g174",
+      "text": "Adversity reveals character.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g175",
+      "text": "Accept, adapt, act.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g176",
+      "text": "Look inward for your peace.",
+      "category": "stoic",
+      "source": null
+    },
+    {
+      "id": "g177",
+      "text": "Notice one good thing today.",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g178",
+      "text": "Say thank you and mean it.",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g179",
+      "text": "Gratitude turns enough into plenty.",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g180",
+      "text": "Count blessings, not problems.",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g181",
+      "text": "Small joys deserve big thanks.",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g182",
+      "text": "What you appreciate, appreciates.",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g183",
+      "text": "Today gave you something. Notice it.",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g184",
+      "text": "Thankful eyes see more beauty.",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g185",
+      "text": "Gratitude is a quiet kind of joy.",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g186",
+      "text": "Appreciate what's already yours.",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g187",
+      "text": "A grateful heart draws in more good.",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g188",
+      "text": "Find the gift inside the ordinary.",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g189",
+      "text": "Thank the sun before you ask for more.",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g190",
+      "text": "Enough is a feeling, not a number.",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g191",
+      "text": "Notice the quiet good in your day.",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g192",
+      "text": "Gratitude turns meals into feasts.",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g193",
+      "text": "Say thanks before you ask again.",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g194",
+      "text": "The small things are the big things.",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g195",
+      "text": "Every breath is worth a thank you.",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g196",
+      "text": "Look for what's already working.",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g197",
+      "text": "Gratitude softens a hard day.",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g198",
+      "text": "Be thankful for the ordinary morning.",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g199",
+      "text": "Appreciate slowly, rush less.",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g200",
+      "text": "Today had a gift. Did you see it?",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g201",
+      "text": "Gratitude multiplies what it touches.",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g202",
+      "text": "Thank the people who showed up.",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g203",
+      "text": "Notice more, complain less.",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g204",
+      "text": "A thankful mind is a peaceful one.",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g205",
+      "text": "Savor what you already have.",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g206",
+      "text": "Gratitude is the memory of the heart.",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g207",
+      "text": "Give thanks before you give up.",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g208",
+      "text": "Find beauty in the unremarkable.",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g209",
+      "text": "Every day hides a small blessing.",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g210",
+      "text": "Appreciation turns dust into gold.",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g211",
+      "text": "Thankfulness is a daily practice.",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g212",
+      "text": "Notice who showed up for you.",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g213",
+      "text": "Gratitude makes yesterday a gift.",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g214",
+      "text": "Be grateful for the lesson too.",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g215",
+      "text": "Small thanks, big shifts.",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g216",
+      "text": "Look twice. There's more to thank.",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g217",
+      "text": "Gratitude is the antidote to more.",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g218",
+      "text": "Say thank you to your own effort.",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g219",
+      "text": "Notice the light before the dark.",
+      "category": "gratitude",
+      "source": null
+    },
+    {
+      "id": "g220",
+      "text": "Appreciate the path, not just the peak.",
+      "category": "gratitude",
+      "source": null
+    }
+  ],
+  "gita": [
+    {
+      "id": "b001",
+      "text": "My limbs weaken, my mind reels with grief.",
+      "chapter": 1,
+      "verse": 28,
+      "category": "grief"
+    },
+    {
+      "id": "b002",
+      "text": "I see no good in this war of kin.",
+      "chapter": 1,
+      "verse": 31,
+      "category": "duty"
+    },
+    {
+      "id": "b003",
+      "text": "Arjuna set down his bow in sorrow.",
+      "chapter": 1,
+      "verse": 47,
+      "category": "grief"
+    },
+    {
+      "id": "b004",
+      "text": "Pleasure and pain pass like seasons. Endure.",
+      "chapter": 2,
+      "verse": 14,
+      "category": "equanimity"
+    },
+    {
+      "id": "b005",
+      "text": "The soul is never born, and never dies.",
+      "chapter": 2,
+      "verse": 20,
+      "category": "wisdom"
+    },
+    {
+      "id": "b006",
+      "text": "Act without attachment to results.",
+      "chapter": 2,
+      "verse": 47,
+      "category": "duty"
+    },
+    {
+      "id": "b007",
+      "text": "Do your duty; action beats inaction.",
+      "chapter": 3,
+      "verse": 8,
+      "category": "duty"
+    },
+    {
+      "id": "b008",
+      "text": "Do your work without craving the result.",
+      "chapter": 3,
+      "verse": 19,
+      "category": "duty"
+    },
+    {
+      "id": "b009",
+      "text": "Better your own path, even if flawed.",
+      "chapter": 3,
+      "verse": 35,
+      "category": "duty"
+    },
+    {
+      "id": "b010",
+      "text": "When goodness fades, I take form to restore it.",
+      "chapter": 4,
+      "verse": 7,
+      "category": "faith"
+    },
+    {
+      "id": "b011",
+      "text": "I come to protect the good and end wrong.",
+      "chapter": 4,
+      "verse": 8,
+      "category": "faith"
+    },
+    {
+      "id": "b012",
+      "text": "The wise see stillness within action.",
+      "chapter": 4,
+      "verse": 18,
+      "category": "wisdom"
+    },
+    {
+      "id": "b013",
+      "text": "Act like a lotus leaf, untouched by water.",
+      "chapter": 5,
+      "verse": 10,
+      "category": "detachment"
+    },
+    {
+      "id": "b014",
+      "text": "The true renouncer has no hate, no craving.",
+      "chapter": 5,
+      "verse": 3,
+      "category": "detachment"
+    },
+    {
+      "id": "b015",
+      "text": "Know me as the friend of every being.",
+      "chapter": 5,
+      "verse": 29,
+      "category": "devotion"
+    },
+    {
+      "id": "b016",
+      "text": "Lift yourself by your own effort.",
+      "chapter": 6,
+      "verse": 5,
+      "category": "self"
+    },
+    {
+      "id": "b017",
+      "text": "The mind is a friend, or a fierce enemy.",
+      "chapter": 6,
+      "verse": 6,
+      "category": "self"
+    },
+    {
+      "id": "b018",
+      "text": "The restless mind is tamed by practice.",
+      "chapter": 6,
+      "verse": 35,
+      "category": "focus"
+    },
+    {
+      "id": "b019",
+      "text": "Few among many truly seek to know me.",
+      "chapter": 7,
+      "verse": 3,
+      "category": "wisdom"
+    },
+    {
+      "id": "b020",
+      "text": "All things are strung on me like pearls.",
+      "chapter": 7,
+      "verse": 7,
+      "category": "wisdom"
+    },
+    {
+      "id": "b021",
+      "text": "After many lives, the wise surrender to me.",
+      "chapter": 7,
+      "verse": 19,
+      "category": "devotion"
+    },
+    {
+      "id": "b022",
+      "text": "Whatever you dwell on, you become.",
+      "chapter": 8,
+      "verse": 6,
+      "category": "focus"
+    },
+    {
+      "id": "b023",
+      "text": "Whoever remembers me at death, reaches me.",
+      "chapter": 8,
+      "verse": 5,
+      "category": "devotion"
+    },
+    {
+      "id": "b024",
+      "text": "Remember me always, and do your duty.",
+      "chapter": 8,
+      "verse": 7,
+      "category": "devotion"
+    },
+    {
+      "id": "b025",
+      "text": "I carry what you lack, and keep what you have.",
+      "chapter": 9,
+      "verse": 22,
+      "category": "devotion"
+    },
+    {
+      "id": "b026",
+      "text": "A leaf or flower, offered with love, I accept.",
+      "chapter": 9,
+      "verse": 26,
+      "category": "devotion"
+    },
+    {
+      "id": "b027",
+      "text": "Whatever you do, offer it to me.",
+      "chapter": 9,
+      "verse": 27,
+      "category": "devotion"
+    },
+    {
+      "id": "b028",
+      "text": "I am the self in every being's heart.",
+      "chapter": 10,
+      "verse": 20,
+      "category": "wisdom"
+    },
+    {
+      "id": "b029",
+      "text": "From me all things arise and unfold.",
+      "chapter": 10,
+      "verse": 8,
+      "category": "wisdom"
+    },
+    {
+      "id": "b030",
+      "text": "All beauty and power hold a spark of me.",
+      "chapter": 10,
+      "verse": 41,
+      "category": "wisdom"
+    },
+    {
+      "id": "b031",
+      "text": "I am time, the destroyer of worlds.",
+      "chapter": 11,
+      "verse": 32,
+      "category": "wisdom"
+    },
+    {
+      "id": "b032",
+      "text": "Rise, win glory, be only my instrument.",
+      "chapter": 11,
+      "verse": 33,
+      "category": "duty"
+    },
+    {
+      "id": "b033",
+      "text": "Do my work, depend on me, and love me.",
+      "chapter": 11,
+      "verse": 55,
+      "category": "devotion"
+    },
+    {
+      "id": "b034",
+      "text": "Free of hate, friendly, and kind — dear to me.",
+      "chapter": 12,
+      "verse": 13,
+      "category": "devotion"
+    },
+    {
+      "id": "b035",
+      "text": "One who disturbs no one is dear to me.",
+      "chapter": 12,
+      "verse": 15,
+      "category": "equanimity"
+    },
+    {
+      "id": "b036",
+      "text": "Steady in praise and blame — that one I love.",
+      "chapter": 12,
+      "verse": 19,
+      "category": "equanimity"
+    },
+    {
+      "id": "b037",
+      "text": "Know the body as field, the self as knower.",
+      "chapter": 13,
+      "verse": 2,
+      "category": "wisdom"
+    },
+    {
+      "id": "b038",
+      "text": "Humility and honesty are true knowledge.",
+      "chapter": 13,
+      "verse": 8,
+      "category": "wisdom"
+    },
+    {
+      "id": "b039",
+      "text": "See the same self in every creature.",
+      "chapter": 13,
+      "verse": 28,
+      "category": "wisdom"
+    },
+    {
+      "id": "b040",
+      "text": "Goodness, passion, dullness bind the soul.",
+      "chapter": 14,
+      "verse": 5,
+      "category": "self"
+    },
+    {
+      "id": "b041",
+      "text": "Rise above the gunas through devotion.",
+      "chapter": 14,
+      "verse": 26,
+      "category": "devotion"
+    },
+    {
+      "id": "b042",
+      "text": "The steady one treats joy and pain alike.",
+      "chapter": 14,
+      "verse": 24,
+      "category": "equanimity"
+    },
+    {
+      "id": "b043",
+      "text": "A spark of me lives on as every soul.",
+      "chapter": 15,
+      "verse": 7,
+      "category": "wisdom"
+    },
+    {
+      "id": "b044",
+      "text": "Freed from pride, the wise reach the eternal.",
+      "chapter": 15,
+      "verse": 5,
+      "category": "wisdom"
+    },
+    {
+      "id": "b045",
+      "text": "I dwell in every heart as light and memory.",
+      "chapter": 15,
+      "verse": 15,
+      "category": "wisdom"
+    },
+    {
+      "id": "b046",
+      "text": "Purity, patience, courage mark the divine.",
+      "chapter": 16,
+      "verse": 3,
+      "category": "discipline"
+    },
+    {
+      "id": "b047",
+      "text": "Lust, anger, greed — the gates to ruin.",
+      "chapter": 16,
+      "verse": 21,
+      "category": "discipline"
+    },
+    {
+      "id": "b048",
+      "text": "Let scripture guide what you should do.",
+      "chapter": 16,
+      "verse": 24,
+      "category": "duty"
+    },
+    {
+      "id": "b049",
+      "text": "Your faith shapes who you become.",
+      "chapter": 17,
+      "verse": 3,
+      "category": "self"
+    },
+    {
+      "id": "b050",
+      "text": "Speak words that are true, kind, and calm.",
+      "chapter": 17,
+      "verse": 15,
+      "category": "discipline"
+    },
+    {
+      "id": "b051",
+      "text": "A gift given with no thought of return is pure.",
+      "chapter": 17,
+      "verse": 20,
+      "category": "gratitude"
+    },
+    {
+      "id": "b052",
+      "text": "Let go of all paths, and surrender to me.",
+      "chapter": 18,
+      "verse": 66,
+      "category": "surrender"
+    },
+    {
+      "id": "b053",
+      "text": "Reflect on this fully, then choose freely.",
+      "chapter": 18,
+      "verse": 63,
+      "category": "wisdom"
+    },
+    {
+      "id": "b054",
+      "text": "Where there is devotion, there is victory.",
+      "chapter": 18,
+      "verse": 78,
+      "category": "devotion"
+    }
+  ]
+}
