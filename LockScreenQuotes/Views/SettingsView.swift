@@ -34,8 +34,10 @@ struct SettingsView: View {
                 }
 
                 if !gitaMode {
-                    Section("Categories") {
+                    Section {
                         chipGrid
+                    } header: {
+                        Text("Categories")
                     } footer: {
                         Text("Choose which categories the widget can draw from. At least one stays selected.")
                     }
